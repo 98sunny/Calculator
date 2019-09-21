@@ -1,0 +1,22 @@
+body{
+    font-family:'Open Sans', sans-serif;
+    background-color: black;
+
+}
+#container{
+    background-color:white;
+    width: 1000px;
+    height: 550px;
+    margin: 20px auto 20px auto;
+}
+#calculator{
+    background-color: bisque;
+    height: 520px;
+    width: 320px;
+    margin: 20px auto 20px auto;    
+    top: 20px;
+    position: relative;
+    border-radius: 20px;//for curve
+   
+
+}
